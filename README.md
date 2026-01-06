@@ -3,14 +3,18 @@
 <!--
 **anthonywebb-pro/anthonywebb-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi 👋 I'm Anthony
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔐 Cybersecurity student | Network+ | Security+ (soon)
+🤖 AI + Security | Data Centers | Blue Team
+
+- 🎓 Graduating May 2026
+- 🛡️ Studying for Sec+
+- 🧠 Interested in SOC, GRC, and AI Security
+- 🛠️ Python | Linux | Networking | SIEM
+
+### Connect with me
+- LinkedIn: https://linkedin.com/in/anthony-webb-60522b37a
+- GitHub: https://github.com/anthonywebb-pro
+
 -->
